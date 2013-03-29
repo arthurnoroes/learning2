@@ -1,5 +1,4 @@
 
-
 Main Window: " Welcome to this software"
 
 2nd Window: "Insert your problem and specify accuracy level.Problems should be in the form x2+x3+x3<=10"
@@ -10,7 +9,9 @@ Main Window: " Welcome to this software"
 
 5th Window: "Statistics of your problem here"
 
-6th Windos: "Just another silly window"
+6th Window: "Just another silly window"
+
+7th Window: " Just another window"
 
 
 
