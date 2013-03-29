@@ -1,7 +1,4 @@
 
-We should start working on the GUI now
-
-
 
 Main Window: " Welcome to this software"
 
