@@ -1,4 +1,3 @@
-
 We should start working on the GUI now
 
 
@@ -13,7 +12,9 @@ Main Window: " Welcome to this software"
 
 5th Window: "Statistics of your problem here"
 
-6th Windos: "Just another silly window"
+6th Window: "Just another silly window"
+
+7th Window: " Just another window"
 
 
 
