@@ -13,5 +13,7 @@ Main Window: " Welcome to this software"
 
 5th Window: "Statistics of your problem here"
 
+6th Windos: "Just another silly window"
+
 
 
